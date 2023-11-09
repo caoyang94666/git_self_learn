@@ -18,3 +18,22 @@ git commit -m "message" --amend Update previous commit instead of creating new o
 git log View the commit history
 git log --all Show all commits (not just current branch)
 git log --all --graph Show branching visually in the command line
+# Configure Name & Email for Commits
+# Viewing Previous Commits
+# Restoring to a Previous Commit
+# Other Features of Git
+# GitHub
+# Uploading Code to GitHub
+# Downloading Code from GitHub
+# Branching
+# Merging
+# Merge Conflicts
+# To resolve a merge conflict
+# Feature Branch Workflow
+# Merge Conflicts in the Feature Branch Workflow
+
+
+
+
+
+
